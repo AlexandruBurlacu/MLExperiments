@@ -1,2 +1,4 @@
-models*
+models
 tmp
+.ipynb_checkpoints
+
