@@ -1,4 +1,5 @@
 models
 tmp
-.ipynb_checkpoints
+temp
+.*
 
