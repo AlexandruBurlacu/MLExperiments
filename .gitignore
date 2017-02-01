@@ -1,5 +1,7 @@
 models
 tmp
 temp
+*/project/*
+*/target/*
 .*
 
