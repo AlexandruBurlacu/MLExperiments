@@ -1,7 +1,10 @@
+Titanic
+TransferLearning.*
 models
 tmp
 temp
+*.pyc
+__pycache__
 */project/*
 */target/*
 .*
-

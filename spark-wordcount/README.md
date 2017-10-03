@@ -8,3 +8,6 @@ Books are in `.txt` format, both taken from [Project Gutenberg](http://www.guten
 ## ToDo:
 - add RegEx tokenization
 - use stemming/lemmatization
+
+### [Update Oct 2017]
+Well, I think I'll rather write another example in Spark. I'm too lazy to add features in this one.
