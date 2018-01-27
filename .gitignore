@@ -1,8 +1,8 @@
-titanic-kaggle
-knowledge-transfer-examples
+titanic-kaggle # WIP
+deep-learning # WIP
 tmp
 *.pyc
 __pycache__
 */project/*
 */target/*
-.*
+.venv
