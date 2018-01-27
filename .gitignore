@@ -1,8 +1,6 @@
-Titanic
-TransferLearning.*
-models
+titanic-kaggle
+knowledge-transfer-examples
 tmp
-temp
 *.pyc
 __pycache__
 */project/*
