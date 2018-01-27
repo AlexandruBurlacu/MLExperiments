@@ -20,8 +20,8 @@ object Main {
     println(s"Iliad has roughly ${iliadCounts.count()} words.")
     println(s"Odyssey has roughly ${odysseyCounts.count()} words.")
 
-    iliadCounts.saveAsTextFile("MLExperiments/temp/wordCountsIl")
-    odysseyCounts.saveAsTextFile("MLExperiments/temp/wordCountsOd")
+    iliadCounts.saveAsTextFile("MLExperiments/tmp/wordCountsIl")
+    odysseyCounts.saveAsTextFile("MLExperiments/tmp/wordCountsOd")
     
     sc.stop()
   }

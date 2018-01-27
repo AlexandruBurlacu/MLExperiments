@@ -1,12 +1,12 @@
 # MLExperiments
 
-Here are some of my machine learning and data engineering experiments.
+Here are some of my machine learning, deep learning and data engineering experiments.
 
 Some of them are WIP.
 
-Currently there is a single Apache Spark [Word Count project](./spark-wordcount) a couple of rewritten, Python to Hylang, [TensorFlow and Scikit-Learn scripts](./hy-ml) and the IPython notebooks.
+Currently there is a single Apache Spark [Word Count project](./spark-wordcount) a couple of rewritten, Python to Hylang, [TensorFlow and Scikit-Learn scripts](./hy-cv) and the [IPython notebooks](./machine-learning-and-a-bit-of-data-science).
 
-In order to run all examples it is recommended to use virtual environments (if Python/Hylang examples).
+In order to run all examples it is recommended to use virtual environments.
 As a reminder:
 ```bash
 virtualenv -p python3 .venv
