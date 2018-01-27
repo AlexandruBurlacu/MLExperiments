@@ -1,6 +1,6 @@
-titanic-kaggle # WIP
-deep-learning # WIP
 tmp
+*/res/*
+*/.venv/*
 *.pyc
 __pycache__
 */project/*
