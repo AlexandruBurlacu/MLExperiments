@@ -4,7 +4,7 @@ Here are some of my machine learning, deep learning and data engineering experim
 
 Some of them are WIP.
 
-Currently there is a single Apache Spark [Word Count project](./spark-wordcount) a couple of rewritten, Python to Hylang, [TensorFlow and Scikit-Learn scripts](./hy-cv) and the [IPython notebooks](./machine-learning-and-a-bit-of-data-science).
+Currently there is a single Apache Spark [Word Count project](./spark-wordcount) a couple of rewritten, Python to Hylang, [TensorFlow and Scikit-Learn scripts](./deep-learning/hy-cv) and the [IPython notebooks](./machine-learning-and-a-bit-of-data-science).
 
 In order to run all examples it is recommended to use virtual environments.
 As a reminder:
