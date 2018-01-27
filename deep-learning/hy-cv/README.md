@@ -10,3 +10,6 @@ The `mnist-simple` is based on [this](https://www.tensorflow.org/get_started/mni
 
 ### Note
 The `mnist-advanced.hy` isn't working for now, due to an issue with early return from a function in Hylang.
+
+### 28.01.2018 update
+The `mnist-advanced.hy` is working!
