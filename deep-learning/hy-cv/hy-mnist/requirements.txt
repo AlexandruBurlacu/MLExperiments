@@ -1,7 +1,7 @@
 appdirs==1.4.3
 args==0.1.0
 astor==0.5
-bleach==1.5.0
+bleach==3.1.1
 clint==0.5.1
 html5lib==0.9999999
 hy==0.13.0
