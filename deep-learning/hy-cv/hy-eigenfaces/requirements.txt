@@ -17,4 +17,4 @@ six==1.11.0
 sklearn==0.0
 subprocess32==3.2.7
 olefile==0.44
-Pillow==6.2.0
+Pillow==6.2.2
